@@ -76,7 +76,6 @@ $pesan= array('
 '.$emoticon.' POWERED BY '.$user.'  '.$emoticon.'
 
  ❤ SITE =>> HIRA-BOT,TK ❤ 
-
 💙 OWNER 💙 @[100011173993731:Hira] 💙 ',);
 $pesan=$pesan[rand(0,count($pesan)-1)];
 $message=$pesan;
