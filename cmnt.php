@@ -73,12 +73,11 @@ $TimeZone="+05:00";
 	elseif ($hour < 12) $greetings = "gσσ∂ мσяиιиg 😗 "; 
 
 $pesan= array('
-'.$emoticon.' '.$greetings.' '.$mr.' '.$emoticon.'
+'.$emoticon.' POWERED BY '.$user.'  '.$emoticon.'
 
-💙 OWNER 💙 @[100011173993731:Hira] 💙 '.$user.' 💙
+ ❤ SITE =>> HIRA-BOT,TK ❤ 
 
-❤ SITE =>> HIRA-BOT,TK ❤ '
-,);
+💙 OWNER 💙 @[100011173993731:Hira] 💙 ',);
 $pesan=$pesan[rand(0,count($pesan)-1)];
 $message=$pesan;
 
